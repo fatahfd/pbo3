@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\bin\Debug\kuliah1.exe
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\bin\Debug\kuliah1.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\bin\Debug\kuliah1.xml
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.FrmMenu.resources
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.FrmKalkulator.resources
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.exe
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.xml
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.pdb
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.Formppn.resources

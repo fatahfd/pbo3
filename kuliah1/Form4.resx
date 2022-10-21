@@ -117,49 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-</value>
-  </data>
 </root>

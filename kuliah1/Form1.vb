@@ -18,4 +18,9 @@
         Dim fkalk = New FrmKalkulator()
         fkalk.Show()
     End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        Dim fkalk = New FrmNilai()
+        fkalk.Show()
+    End Sub
 End Class

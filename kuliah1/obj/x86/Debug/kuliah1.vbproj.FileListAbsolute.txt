@@ -12,3 +12,4 @@
 \\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.pdb
 \\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.Formppn.resources
 \\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.FrmNilai.resources
+\\Mac\Home\Documents\Visual Studio 2010\Projects\kuliah1\kuliah1\obj\x86\Debug\kuliah1.FrmProcFu.resources

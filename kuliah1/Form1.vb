@@ -23,4 +23,9 @@
         Dim fkalk = New FrmNilai()
         fkalk.Show()
     End Sub
+
+    Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button4.Click
+        Dim fkalk = New FrmProcFu()
+        fkalk.Show()
+    End Sub
 End Class

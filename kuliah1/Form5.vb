@@ -80,4 +80,27 @@
     Private Sub tbjari_KeyUp(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles tbjari.KeyUp
         tbdiam.Text = Val(tbjari.Text) * 2
     End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        tgjluas.Text = Val(tjpanjang.Text) * Val(tjtinggi.Text)
+        tgjkeliling.Text = Val(tjpanjang.Text) + Val(tjpendek.Text) + Val(tjpanjang.Text) + Val(tjpendek.Text)
+
+
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        tlkel.Text = Val(tlypanjang.Text) + Val(tlypendek.Text) + Val(tlypanjang.Text) + Val(tlypendek.Text)
+        tly1.Text = 2 * Val(tlkel.Text) / Val(tlypanjang.Text)
+        ' tly2.Text = 2 * Val(tlkel.Text) / Val(tlypendek.Text)
+        Dim d2 As Integer
+        Dim d1 As Integer
+
+        d2 = (Val(tlypanjang.Text) ^ 2) + (Val(tlypendek.Text) ^ 2)
+        d2 = Math.Sqrt(d2)
+        tly2.Text = d2
+
+
+        tlluas.Text = (0.5 * Val(tly1.Text)) * Val(tly2.Text)
+
+    End Sub
 End Class

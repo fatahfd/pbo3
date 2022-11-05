@@ -112,4 +112,8 @@
         Hasil = Val(txtlayar.Text)
         operasiHitung = True
     End Sub
+
+    Private Sub cmbbutton0_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cmbbutton0.Click
+        setAngka(0)
+    End Sub
 End Class
